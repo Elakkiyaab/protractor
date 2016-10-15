@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "postinstall": "./node_modules/protractor/bin/webdriver-manager update"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "protractor": "^4.0.4"
+  }
+}
